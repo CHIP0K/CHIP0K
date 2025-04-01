@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Ihor profile views](https://u8views.com/api/v1/github/profiles/10073527/views/day-week-month-total-count.svg)](https://u8views.com/github/CHIP0K)
+
 <!--
 **CHIP0K/CHIP0K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
